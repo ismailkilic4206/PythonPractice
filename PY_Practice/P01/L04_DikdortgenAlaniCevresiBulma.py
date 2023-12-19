@@ -1,3 +1,6 @@
+#Soru 4- Kullanicidan bir dikdortgenin 2 kenar uzunlugunu alip, dikdortgenin alanini
+#yazdirin.
+
 uzunKenar = int(input("Dikdortgenin uzun kenarini giriniz: ")) #12
 kisaKenar = int(input("Dikdortgenin kisa kenarini giriniz: ")) #5
 
